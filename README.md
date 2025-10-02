@@ -4,7 +4,6 @@
 **Wealth Sorters**  
 David Shalshin (dshal20)  
 GitHub: https://github.com/dshal20/Wealth-Sorters  
-Video: https://www.youtube.com/watch?v=OoDAxM98dSc&ab_channel=DavidShalshin  
 
 ---
 
